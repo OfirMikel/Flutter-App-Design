@@ -1,6 +1,6 @@
 # Trip Advisor App - Flutter/Dart with REST API
 
-![App Logo](app_logo.png)
+![App Logo](https://raw.githubusercontent.com/OfirMikel/Portfolio/master/mountain/1.png)
 
 ## Description
 
