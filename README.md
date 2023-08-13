@@ -1,4 +1,4 @@
-# Trip Advisor App - Flutter/Dart with REST API
+# Trip Planner App - Flutter/Dart with REST API
 
 ![App Logo](https://raw.githubusercontent.com/OfirMikel/Portfolio/master/mountain/1.png)
 
